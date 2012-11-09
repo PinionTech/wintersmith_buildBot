@@ -6,6 +6,7 @@
     "start": "node app"
   },
   "dependencies": {
+    "coffee-script": "*",
     "express": "3.0.0rc5",
     "jade": "*",
     "simple-git-child": "0.0.1",
